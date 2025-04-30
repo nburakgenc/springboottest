@@ -30,7 +30,7 @@ public class EmployeeController
         emp1.setDepartment("HR");
 
         Employee emp2 = new Employee();
-        emp2.setName("Hayrettin");
+        emp2.setName("Fahrettin");
         emp2.setId(2);
         emp2.setDepartment("Finance");
 
